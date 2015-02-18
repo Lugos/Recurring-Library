@@ -1,7 +1,7 @@
 <?php
 
 interface StrategyInterface {
-    public function showEventDay($eventObject);
+    public function showEventDay($eventObject,$reportObject);
 }
 
 ?>
